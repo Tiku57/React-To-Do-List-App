@@ -93,15 +93,3 @@ my-todo-app/
 - **TodoItem.jsx**: Displays an individual to-do's text and provides buttons/handlers to toggle its completion status and delete it, using props passed down from `App.jsx`.
 
 ---
-
-## 🤝 Contributing
-
-Feel free to fork this repository, make improvements, and submit pull requests. Any contributions are welcome!
-
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-> You can create a `LICENSE` file to include the full license text if you're sharing this publicly.
