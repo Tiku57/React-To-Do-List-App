@@ -25,9 +25,11 @@ Follow these steps to get the project up and running on your local machine.
 
 1. **Clone the repository** (if applicable):
 
+1. **Clone the repository**:
+
 ```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone https://github.com/Tiku57/React-To-Do-List-App
+cd React-To-Do-List-App
 ```
 
 2. **Navigate to the project directory** (if you've created it manually):
