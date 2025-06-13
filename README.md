@@ -35,7 +35,7 @@ cd React-To-Do-List-App
 2. **Navigate to the project directory** (if you've created it manually):
 
 ```bash
-cd my-todo-app # Or whatever you named your project folder
+cd my-todo-app 
 ```
 
 3. **Install dependencies**:
